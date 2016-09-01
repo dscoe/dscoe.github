@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-The 2nd DSCOE Inferno will be hosted by the DSCOE team at the Center for Army Analysis in May 2016. This website will hold all of the tutorials and presentations from the event.
+This is the website for the 3rd DSCOE Inferno event on 9/2/2016.  These materials will also be hosted on dscoe.army.mil (CAC Requird).
